@@ -9,6 +9,11 @@ sites:
     url: https://app.abaetefest.com.br/#/
   - name: Site AbaetéFest
     url: https://abaetefest.com.br/
+  - name: API AbaetéFest
+    url: https://polished-snowflake-9723.fly.dev/api/events
+    method: GET
+    headers:
+    - "Content-Type: application/json"
 
 
 status-website:
