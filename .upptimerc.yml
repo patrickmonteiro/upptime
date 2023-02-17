@@ -25,11 +25,7 @@ status-website:
   name: AbaetéFest
   introTitle: "**AbaetéFest** - O app Guia da cidade de Abaetetuba."
   introMessage: Página de Status e Saúde das aplicações
-  metaTags:
-    - name: "color-scheme"
-      content: "dark light"
-    - name: "robots"
-      content: "noindex"
+  theme: night
   navbar:
     - title: Status
       href: /
