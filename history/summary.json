@@ -40,19 +40,19 @@
     "url": "https://polished-snowflake-9723.fly.dev/api/events",
     "icon": "https://icons.duckduckgo.com/ip3/polished-snowflake-9723.fly.dev.ico",
     "slug": "api-abaete-fest",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1517,
-    "timeDay": 615,
-    "timeWeek": 2570,
-    "timeMonth": 1517,
-    "timeYear": 1517,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 2539,
+    "timeDay": 10774,
+    "timeWeek": 4610,
+    "timeMonth": 2539,
+    "timeYear": 2539,
     "dailyMinutesDown": {
-      "2023-03-04": 0
+      "2023-03-04": 7
     }
   }
 ]
