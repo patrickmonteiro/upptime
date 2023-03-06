@@ -22,9 +22,9 @@
     "url": "https://abaetefest.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/abaetefest.com.br.ico",
     "slug": "site-abaete-fest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 238,
     "timeMonth": 295,
     "timeYear": 295,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-06": 0
+    }
   },
   {
     "name": "API AbaetéFest",
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 2358,
     "timeDay": 732,
-    "timeWeek": 4621,
+    "timeWeek": 5120,
     "timeMonth": 2358,
     "timeYear": 2358,
     "dailyMinutesDown": {}
