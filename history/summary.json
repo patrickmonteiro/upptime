@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 253,
-    "timeDay": 324,
-    "timeWeek": 252,
+    "timeDay": 262,
+    "timeWeek": 260,
     "timeMonth": 253,
     "timeYear": 253,
     "dailyMinutesDown": {}
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/abaetefest.com.br.ico",
     "slug": "site-abaete-fest",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 299,
-    "timeDay": 339,
-    "timeWeek": 257,
-    "timeMonth": 299,
-    "timeYear": 299,
-    "dailyMinutesDown": {
-      "2023-03-06": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 300,
+    "timeDay": 360,
+    "timeWeek": 273,
+    "timeMonth": 300,
+    "timeYear": 300,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API AbaetéFest",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2358,
-    "timeDay": 732,
-    "timeWeek": 5120,
-    "timeMonth": 2358,
-    "timeYear": 2358,
+    "time": 2278,
+    "timeDay": 610,
+    "timeWeek": 5135,
+    "timeMonth": 2278,
+    "timeYear": 2278,
     "dailyMinutesDown": {}
   }
 ]
