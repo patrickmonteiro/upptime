@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 209,
-    "timeWeek": 251,
+    "timeDay": 258,
+    "timeWeek": 241,
     "timeMonth": 250,
     "timeYear": 250,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 164,
-    "timeWeek": 270,
+    "timeDay": 280,
+    "timeWeek": 268,
     "timeMonth": 288,
     "timeYear": 288,
     "dailyMinutesDown": {}
@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/polished-snowflake-9723.fly.dev.ico",
     "slug": "api-abaete-fest",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1924,
-    "timeDay": 666,
-    "timeWeek": 636,
-    "timeMonth": 1924,
-    "timeYear": 1924,
-    "dailyMinutesDown": {
-      "2023-03-12": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1880,
+    "timeDay": 679,
+    "timeWeek": 627,
+    "timeMonth": 1880,
+    "timeYear": 1880,
+    "dailyMinutesDown": {}
   }
 ]
