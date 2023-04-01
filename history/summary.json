@@ -40,7 +40,7 @@
     "url": "https://polished-snowflake-9723.fly.dev/api/events",
     "icon": "https://icons.duckduckgo.com/ip3/polished-snowflake-9723.fly.dev.ico",
     "slug": "api-abaete-fest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
@@ -52,6 +52,7 @@
     "timeMonth": 1783,
     "timeYear": 1439,
     "dailyMinutesDown": {
+      "2023-04-01": 0,
       "2023-03-28": 18,
       "2023-03-14": 18
     }
