@@ -1,7 +1,7 @@
 url: https://polished-snowflake-9723.fly.dev/api/events
-status: down
-code: 500
-responseTime: 2026
-lastUpdated: 2023-11-01T23:04:22.387Z
+status: up
+code: 200
+responseTime: 332
+lastUpdated: 2023-11-02T12:58:45.865Z
 startTime: 2023-02-17T17:45:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
