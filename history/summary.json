@@ -4,18 +4,20 @@
     "url": "https://app.abaetefest.com.br/#/",
     "icon": "https://icons.duckduckgo.com/ip3/app.abaetefest.com.br.ico",
     "slug": "app-abaete-fest-pwa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 388,
-    "timeWeek": 243,
-    "timeMonth": 229,
+    "timeDay": 262,
+    "timeWeek": 230,
+    "timeMonth": 226,
     "timeYear": 248,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "Site AbaetéFest",
