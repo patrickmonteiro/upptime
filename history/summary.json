@@ -6,18 +6,16 @@
     "slug": "app-abaete-fest-pwa",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 265,
-    "timeWeek": 272,
+    "timeDay": 288,
+    "timeWeek": 253,
     "timeMonth": 271,
     "timeYear": 238,
-    "dailyMinutesDown": {
-      "2024-09-15": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Site AbaetéFest",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 278,
-    "timeDay": 656,
-    "timeWeek": 319,
-    "timeMonth": 279,
-    "timeYear": 259,
+    "timeDay": 309,
+    "timeWeek": 276,
+    "timeMonth": 273,
+    "timeYear": 260,
     "dailyMinutesDown": {
       "2024-07-27": 26,
       "2024-07-26": 2
@@ -52,9 +50,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.77%",
     "time": 699,
-    "timeDay": 435,
-    "timeWeek": 565,
-    "timeMonth": 587,
+    "timeDay": 471,
+    "timeWeek": 496,
+    "timeMonth": 578,
     "timeYear": 640,
     "dailyMinutesDown": {
       "2024-09-01": 47,
