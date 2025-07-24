@@ -24,7 +24,7 @@
     "slug": "site-abaete-fest",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -34,6 +34,7 @@
     "timeMonth": 418,
     "timeYear": 304,
     "dailyMinutesDown": {
+      "2025-07-24": 0,
       "2024-07-27": 26,
       "2024-07-26": 2
     }
