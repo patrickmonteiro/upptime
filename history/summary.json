@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 291,
-    "timeDay": 323,
-    "timeWeek": 306,
-    "timeMonth": 322,
-    "timeYear": 298,
+    "time": 292,
+    "timeDay": 634,
+    "timeWeek": 372,
+    "timeMonth": 334,
+    "timeYear": 299,
     "dailyMinutesDown": {
       "2025-10-20": 28
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 339,
-    "timeDay": 326,
-    "timeWeek": 438,
-    "timeMonth": 405,
-    "timeYear": 350,
+    "timeDay": 508,
+    "timeWeek": 487,
+    "timeMonth": 411,
+    "timeYear": 351,
     "dailyMinutesDown": {
       "2025-10-20": 28
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/polished-snowflake-9723.fly.dev.ico",
     "slug": "api-abaete-fest",
     "status": "up",
-    "uptime": "98.23%",
+    "uptime": "98.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.23%",
     "time": 761,
-    "timeDay": 662,
-    "timeWeek": 683,
-    "timeMonth": 800,
-    "timeYear": 825,
+    "timeDay": 540,
+    "timeWeek": 689,
+    "timeMonth": 799,
+    "timeYear": 826,
     "dailyMinutesDown": {
       "2025-11-23": 22,
       "2025-10-26": 1289,
