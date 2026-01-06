@@ -4,9 +4,9 @@
     "url": "https://app.abaetefest.com.br/#/",
     "icon": "https://icons.duckduckgo.com/ip3/app.abaetefest.com.br.ico",
     "slug": "app-abaete-fest-pwa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 338,
     "timeYear": 300,
     "dailyMinutesDown": {
+      "2026-01-06": 0,
       "2025-10-20": 28
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://abaetefest.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/abaetefest.com.br.ico",
     "slug": "site-abaete-fest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -36,6 +37,7 @@
     "timeMonth": 407,
     "timeYear": 350,
     "dailyMinutesDown": {
+      "2026-01-06": 0,
       "2025-10-20": 28
     }
   },
@@ -51,7 +53,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.23%",
     "time": 762,
-    "timeDay": 511,
+    "timeDay": 516,
     "timeWeek": 611,
     "timeMonth": 767,
     "timeYear": 825,
