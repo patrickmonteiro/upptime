@@ -4,7 +4,7 @@
     "url": "https://app.abaetefest.com.br/#/",
     "icon": "https://icons.duckduckgo.com/ip3/app.abaetefest.com.br.ico",
     "slug": "app-abaete-fest-pwa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 330,
     "timeYear": 299,
     "dailyMinutesDown": {
+      "2026-01-08": 0,
       "2025-10-20": 28
     }
   },
